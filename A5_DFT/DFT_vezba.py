@@ -20,6 +20,4 @@ for i in range (N):
     plt.title("Izgled na singlaot")
     plt.show()
 
- # Presmetka na amplituda i faza
 
- Faza = np.zeros(N)
